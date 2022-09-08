@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="150"/>
 </div>
 
-### Hi there 👋 I'm Miguel Lamas
+## Hey there 👋, I'm Miguel Lamas a Junior Software Developer from London
 
 - 🔭 I'm a recent graduate from the School of Code.
 - 🌱 I’m initially learning the basics of HTML, CSS, JavaScript, Git and GitHub.
