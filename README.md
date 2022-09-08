@@ -4,7 +4,7 @@
 </div>
 
 
-<h2 align="center">Hey! I'm Miguel, a Junior Software Developer from London</h2>
+<h1 align="center">Hey! I'm Miguel, a Junior Software Developer from London</h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lamasmiguel/">
