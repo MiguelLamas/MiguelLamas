@@ -1,6 +1,5 @@
-
 <div id="header" align="center" >
-  <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/XwBzLXzYq7ljHBXkHk/giphy.gif" width="300"/>
 </div>
 
 
@@ -21,7 +20,7 @@
 
 
 ---
-### About Me :
+### About Me:
 
 - :seedling: In August 2022, I graduated from the 16 week full stack development bootcamp at the <a href="https://www.schoolofcode.co.uk/">School of Code</a>.
 - :potted_plant: I’m currently recapping on the fundamentals of JavaScript, CSS, React, Next.js to solidify my knowledge.
@@ -33,4 +32,23 @@
 - :notes: Fun fact: I'm a massive music lover and have been averaging a gig a week for over 30 years.
 - :mailbox: Reach me: <a href="https://www.linkedin.com/in/lamasmiguel/">LinkedIn</a>.
 
+---
+### Languages:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+
+### Libraries & Frameworks:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+          
+          
+          
+         
 
