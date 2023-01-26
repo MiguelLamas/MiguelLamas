@@ -3,7 +3,7 @@
 </div>
 
 <div>
-<h1 align="center">Hey! I'm Miguel, a Junior Software Developer from London</h1>
+<h1 align="center">Hey! I'm Miguel, a Full Stack Developer from London</h1>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lamasmiguel/">
@@ -27,9 +27,7 @@
 - :hammer_and_wrench:	I worked on a 1 week project to build a full stack application called SoC Survival Guide in a team of 5.
 - :telescope:	I most recently finished a 4 week final project in a team of 6 to help create our full stack Care-full app.
 - :computer: My aim is to keep learning and developing my skills, working on Full Stack projects and building applications with React.
-- :speech_balloon: Ask me about music, photography or transitioning into tech.
 - :zap: Interests: Photography, Music, Football, Technology, Art, Design, Food and Travel.
-- :notes: Fun fact: I'm a massive music lover and have been averaging a gig a week for over 30 years.
 - :mailbox: Reach me: <a href="https://www.linkedin.com/in/lamasmiguel/">LinkedIn</a>.
 
 ---
