@@ -22,12 +22,11 @@
 ---
 ### About Me :
 
-- :seedling: I recently graduated from a 16 week full stack development bootcamp at the <a href="https://www.schoolofcode.co.uk/">School of Code</a>.
-- :hammer_and_wrench:	For our Final Project our team of 6 built a <a href="https://care-full.netlify.app/">product</a> to alleviate the stress of having a sick pet. The user can note symptoms, and keep track of medications and treatments, to allow clearer and more informed conversations when visiting their vet.
-- :potted_plant: I’m currently recapping on the fundamentals of JavaScript, CSS, React, Next.js to solidify my knowledge.
-- :computer: My aim is to keep learning and developing my skills, working on Full Stack projects and building applications with React.
+- :seedling: Recent <a href="https://www.schoolofcode.co.uk/">School of Code</a>. Cohort 12 Graduate in Full Stack Javascript Software Development, Software Engineering.
+
+- :computer: I continue to develop my skills daily, working on Full Stack projects and building applications with React.
 - :zap: Interests: Music, Photography, Football, Technology, Art, Design, Food and Travel.
-- :mailbox: Reach me: <a href="https://www.linkedin.com/in/lamasmiguel/">LinkedIn</a>.
+- :mailbox: Connect with me: <a href="https://www.linkedin.com/in/lamasmiguel/">LinkedIn</a>.
 
 ---
 #### Languages & Tools :
