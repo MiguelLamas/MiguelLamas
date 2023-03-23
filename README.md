@@ -3,7 +3,7 @@
 </div>
 
 <div>
-<h1 align="center">Hi! I'm Miguel Lamas!</h1>
+<h1 align="center">I'm Miguel Lamas!</h1>
   <h3 align="center">A passionate Full Stack Developer with a desire to keep learning and progressing in the tech industry.</h3>
     <h3 align="center">Having been a Photo Producer for 15 years I decided to pursue a new challenge as a full stack developer. I recently graduated from a 16 week full stack javascript software development bootcamp, where I gained hands-on experience in agile software engineering and honed my skills in creating full stack applications. </h3>
   <h3 align="center">I am excited to bring my problem solving, analytical and people skills to a new field; as well as a fresh perspective whilst continuing to grow as a developer.
