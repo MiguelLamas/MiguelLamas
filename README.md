@@ -4,7 +4,8 @@
 
 <div>
 <h1 align="center">Hi! I'm Miguel Lamas!</h1>
-  <h3>A passionate Full Stack Developer with a desire to keep learning and progressing in the tech industry. Having been a Photo Producer for 15 years I decided to pursue a new challenge and full stack engineering. I recently graduated from a 16 week Full Stack Javascript Software Development Bootcamp, where I gained hands-on experience in agile software engineering and honed my skills in creating full stack applications. </h3>
+  <h3>A passionate Full Stack Developer with a desire to keep learning and progressing in the tech industry.</h3>
+    <h3>Having been a Photo Producer for 15 years I decided to pursue a new challenge and full stack engineering. I recently graduated from a 16 week Full Stack Javascript Software Development Bootcamp, where I gained hands-on experience in agile software engineering and honed my skills in creating full stack applications. </h3>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lamasmiguel/">
