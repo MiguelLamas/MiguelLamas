@@ -3,7 +3,8 @@
 </div>
 
 <div>
-<h1 align="center">Hi! I'm Miguel, a Full Stack Developer from London</h1>
+<h1 align="center">Hi! I'm Miguel Lamas!</h1>
+  <h3>A passinate Full Stack Developer with a desire to keep learning and progressing in the tech industry.</h3>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lamasmiguel/">
@@ -22,7 +23,7 @@
 ---
 ### About Me :
 
-- :seedling: Recent <a href="https://www.schoolofcode.co.uk/">School of Code</a>. Cohort 12 Graduate in Full Stack Javascript Software Development, Software Engineering.
+- :seedling: Recent <a href="https://www.schoolofcode.co.uk/">School of Code</a> - Cohort 12 Graduate in Full Stack Javascript Software Development, Software Engineering.
 
 - :computer: I continue to develop my skills daily, working on Full Stack projects and building applications with React.
 - :zap: Interests: Music, Photography, Football, Technology, Art, Design, Food and Travel.
