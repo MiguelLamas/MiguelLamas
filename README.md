@@ -56,8 +56,12 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiguelLamas&theme=tokyonight&date_format=j%20M%5B%20Y%5D&currStreakNum=DD2727)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelLamas&layout=compact&theme=tokyonight)](https://github.com/MiguelLamas/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MiguelLamas&layout=compact&theme=tokyonight)](https://github.com/MiguelLamas/github-readme-stats)
+  
+<!--   https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?
+  
+  https://github-readme-stats.vercel.app/api/top-langs/?
+ -->
 
           
           
