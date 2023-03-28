@@ -58,12 +58,3 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MiguelLamas&layout=compact&theme=tokyonight)](https://github.com/MiguelLamas/github-readme-stats)
   
-<!--   https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?
-  
-  https://github-readme-stats.vercel.app/api/top-langs/?
- -->
-
-          
-          
-         
-
