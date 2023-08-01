@@ -5,8 +5,8 @@
 <div>
 <h1 align="center">I'm Miguel Lamas!</h1>
   <h3 align="center">A passionate Full Stack Developer with a desire to keep learning and progressing in the tech industry.</h3>
-    <h3 align="center">Having been a Photographic Producer for over 15 years, I've decided to pursue a new challenge as a developer. My first endeavour was completing a 16 week full stack javascript bootcamp, where I gained hands-on experience in agile software engineering and honed my skills in creating full stack applications in pairs and within a larger team. </h3>
-  <h3 align="center">I enjoy testing myself, problem solving, and learning how to learn again every day. I'm excited to bring my analytical and people skills to a new field, as well as a fresh perspective whilst I continue to grow.
+    <h3 align="center">I was a Photographic Producer for over 15 years, and decided to pursue a new challenge as a developer. My first endeavour was completing a 16 week full stack javascript bootcamp, where I gained hands-on experience in agile software engineering and honed my skills in creating full stack applications, pair programming and within a team of 6. </h3>
+  <h3 align="center">I enjoy challenging myself, problem solving, and growing everyday. I'm excited about bringing a fresh perspective, aswell as my analytical skills and collaborative curiosity to a new field.
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lamasmiguel/">
